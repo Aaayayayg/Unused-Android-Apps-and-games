@@ -6,6 +6,7 @@ bluestacks
 Noxplayer 
 --------------
 LDplayer 
+--------------
 for more updates 
 --------------
 https://source.Android.com
