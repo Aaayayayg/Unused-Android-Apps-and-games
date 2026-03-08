@@ -26,6 +26,9 @@ on:
     branches: [ "Master" ]
   pull_request:
     branches: [ "Master" ]
+permissions:
+  contents: read
+  security-events: write
 jobs:
   appknox:
     runs-on: ubuntu-latest
