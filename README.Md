@@ -1,8 +1,4 @@
-# This is an old Device You can 
-purchase New Vivo Devices 
-
-
-Changes to Xiaomi To Vivo
+# This is big one Android Apps 
 
 Apps
 -----------------------------------------
