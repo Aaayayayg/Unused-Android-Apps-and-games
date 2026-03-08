@@ -4,15 +4,15 @@ Apps
 -----------------------------------------
 Smart Launcher
 ginlemon.flowerfree
-Version : 6.6 build 003
+Version : 6.6 build 000
 
 Easter Eggs
 com.dede.android_eggs
-Version : 3.3.0
+Version : 4.4.2
 
 Niagara Launcher
 bitpit.launcher
-Version : 1.13.3
+Version : 1.15.2
 
 Microsoft SwiftKey Keyboard
 com.touchtype.swiftkey
@@ -40,7 +40,7 @@ Version : 1.70
 
 Fancade
 com.martinmagni.fancade
-Version : 1.14.5
+Version : 1.15.2
 
 ZArchiver
 ru.zdevs.zarchiver
@@ -61,10 +61,6 @@ Version : V4.13.2
 Chrome Canary
 com.chrome.canary
 Version : 120.0.6099.0
-
-MonsterCrafter
-com.naquatic.monstercrafter
-Version : 1.7.1
 
 My Talking Tom
 com.outfit7.mytalkingtomfree
@@ -118,10 +114,6 @@ JPCSIM NT
 com.jesusdigitalrd.jpcsimnt
 Version : 1.0.10
 
-NoRoot Firewall
-app.greyshirts.firewall
-Version : 3.0.1
-
 Sand : Box
 smellymoo.sand
 Version : 14.163 Quail
@@ -133,14 +125,6 @@ Version : 5.3.8N
 Rootless Pixel Launcher
 amirz.rootless.nexuslauncher
 Version : 3.9.1
-
-Payback 2
-net.apex_designs.payback2
-Version : 2.106.12
-
-XRecorder
-videoeditor.videorecorder.screenrecorder
-Version : 2.8.0.7
 
 Files by Google
 com.google.android.apps.nbu.files
@@ -169,10 +153,6 @@ Version : 4.22.2138.1
 Block Craft 3D
 com.fungames.blockcraft
 Version : 2.21.2
-
-Google Cloud
-com.google.android.apps.cloudconsole
-Version : 1.24.prod.714243890
 
 Shade Launcher
 amirz.shade
