@@ -238,10 +238,6 @@ SL Google Bridge
 ginlemon.flower.slcompanionapp
 Version : v4
 
-Square Home
-com.ss.squarehome2
-Version : 3.2.1
-
 Flood-It!
 com.labpixies.flood
 Version : 2.93
@@ -297,10 +293,6 @@ Version : 0.70
 VirusTotal Mobile
 com.funnycat.virustotal
 Version : 2.5.3
-
-Torch
-com.jeejen.flashlight
-Version : 1.0.20151013.cd27c0b
 
 Find My Device
 com.google.android.apps.adm
