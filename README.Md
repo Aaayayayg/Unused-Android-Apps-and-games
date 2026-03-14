@@ -4,7 +4,7 @@ Apps
 -----------------------------------------
 Smart Launcher
 ginlemon.flowerfree
-Version : 6.6 build 000
+Version : 6.6 build 003
 
 Easter Eggs
 com.dede.android_eggs
